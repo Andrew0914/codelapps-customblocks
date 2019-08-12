@@ -1,0 +1,23 @@
+.mat-link-props {
+    z-index: 10;
+    background-color: #f3e5f5;
+    border-radius: 3px;
+    padding: 10px;
+    box-shadow: 1px 2px 2px #ce93d8;
+}
+
+.yellow.darken-4 {
+    background-color: #f57f17;
+}
+
+.light-blue.darken-3 {
+    background-color: #0277bd;
+}
+
+.red.darken-4 {
+    background-color: #b71c1c;
+}
+
+.green.darken-4 {
+    background-color: #1b5e20;
+}
