@@ -1,0 +1,11 @@
+node_modules
+assets/dist/*
+js-templates
+assets/src/styles/materialize/*
+.babelrc
+generate.js
+guty-blocks-2.php
+package-lock.json
+package.json
+README.md
+webpack.config.js

@@ -1,0 +1,31 @@
+/*
+* For styles only loaded in the editor
+* These styles are actually inlined using webpack style-loader.  They are not loaded using WordPress enqueuing.
+*/
+@import "../styles/materialize/init-materialize";
+@import "../styles/materialize/components/cards";
+@import "../styles/materialize/components/grid";
+
+.wp-block-guty-quick-card {
+    max-width: 100%;
+    overflow-x: scroll;
+}
+
+.card .card-content{
+    padding: 0px !important;
+}
+
+.card .card-action{
+    padding: 0px !important;
+}
+
+.card{
+    padding: 0.9em;
+}
+
+.card_img{
+    max-width: 100px;
+    max-height: 100px;
+    border-radius: 100%;
+    cursor: pointer;
+}
